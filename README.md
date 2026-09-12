@@ -103,4 +103,4 @@ print("Marks:", student.marks)
 * Fibonacci series
 * Student structure using a Python class
 
-These programs are useful for practicing **loops, variables, input/output, and basic object-oriented programming in Python**.
+These programs are useful for practicing **loops, variables, input/output, and basic object-oriented programming in Python**. 
